@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-
-
-Good Afternoon
-=======
-hello world
->>>>>>> kishor
+NEW CODES
